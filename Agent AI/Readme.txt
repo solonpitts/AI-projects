@@ -1,4 +1,6 @@
 Author- Solon Pitts
+
+This program is meant for use in the ctf agent game environment
 ____________________________
 Source Files:
 sxp146230Agent.java
